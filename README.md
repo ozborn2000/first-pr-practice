@@ -1,7 +1,7 @@
 # First PR Practice
 
 This is a small practice repository used to learn the workflow of opening
-a pull request on GitHub: branching, commiting a change, and submitting
+a pull request on GitHub: branching, committing a change, and submitting
 it for review.
 
 ## Usage
